@@ -3,7 +3,8 @@
 ## 1. Tables
 
 ### 1.1 `users`
-Extends Supabase `auth.users` with application-specific profile data.
+
+This table is managed by Supabase auth.
 
 | Column       | Type                     | Constraints                              |
 |--------------|--------------------------|------------------------------------------|

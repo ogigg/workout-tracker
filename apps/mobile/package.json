@@ -16,7 +16,7 @@
     "@powersync/drizzle-driver": "^0.7.1",
     "@powersync/react-native": "^1.28.0",
     "@react-native-async-storage/async-storage": "2.2.0",
-    "@supabase/supabase-js": "^2.89.0",
+    "@supabase/supabase-js": "^2.90.0",
     "@tanstack/react-query": "^5.90.12",
     "babel-preset-expo": "^54.0.9",
     "drizzle-orm": "^0.45.1",
@@ -31,10 +31,12 @@
     "react-native-paper": "^5.14.5",
     "react-native-reanimated": "~4.1.1",
     "react-native-safe-area-context": "~5.6.0",
+    "react-native-url-polyfill": "^3.0.0",
     "react-native-vector-icons": "^10.3.0",
     "zustand": "^5.0.9"
   },
   "devDependencies": {
+    "@types/node": "^22.19.3",
     "@types/react": "~19.1.10",
     "@types/react-native": "^0.72.8",
     "drizzle-kit": "^0.31.8",
